@@ -565,13 +565,16 @@
         .row.justify-content-center.mb-3
           .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
             .box___style_9.h-100
-              p.mb-0.text-center #[b ¿La operación genera dinero por venta o prestación de servicios?] Si es así, corresponde a ingresos. 
+              p.text-center #[b ¿La operación genera dinero por venta o prestación de servicios?] 
+              p.mb-0.text-center Si es así, corresponde a ingresos. 
           .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
             .box___style_9.h-100
-              p.mb-0.text-center #[b ¿La operación se relaciona directamente con el bien o servicio que se vende?] En ese caso, corresponde a costos. 
+              p.text-center #[b ¿La operación se relaciona directamente con el bien o servicio que se vende?] 
+              p.mb-0.text-center En ese caso, corresponde a costos. 
           .col-xl-4.col-md-9(data-aos="zoom-in")
             .box___style_9.h-100
-              p.mb-0.text-center #[b ¿La operación corresponde al funcionamiento o sostenimiento de la organización?] Entonces corresponde a gastos. 
+              p.text-center #[b ¿La operación corresponde al funcionamiento o sostenimiento de la organización?] 
+              p.mb-0.text-center Entonces corresponde a gastos. 
         .box___style_10(data-aos="flip-up").mb-3
           p.mb-0 En síntesis, el plan de cuentas y la estructura contable permiten traducir el hecho económico en una clasificación ordenada dentro del registro. Esta base facilita distinguir entre activos, pasivos, patrimonio, ingresos, costos y gastos, evitando registros improcedentes y fortaleciendo la calidad de la información contable.
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
@@ -728,7 +731,7 @@
           img(src="@/assets/curso/temas/img21.svg" style="max-width: 60px").m-auto
       .col
         h3 Ruta práctica de codificación de operaciones en el registro
-    p.mb-5 A continuación, se presenta ejemplos que permiten comprender cómo una operación pasa de su interpretación económica a su ubicación contable específica:
+    p.mb-5 A continuación, se presentan ejemplos que permiten comprender cómo una operación pasa de su interpretación económica a su ubicación contable específica:
     .fondo___slider.mb-0
       .px-5
         .ajuste-slider(data-aos="zoom-in")

@@ -218,7 +218,7 @@
                 figure
                   img(src='@/assets/curso/temas/img18.svg', alt='' style="max-width: 100px")
             h2 Situación  1 
-            p La organización compra papelería por $500.000 más IVA, con pago a crédito a 30 días.
+            p La organización compra papelería por $ 500.000 más IVA, con pago a crédito a 30 días.
             p #[b Desarrollo]
             p.mb-0 Se trata de una compra de bienes para el funcionamiento. Existe una obligación pendiente con el proveedor y un soporte que respalda la adquisición. Factura de venta del proveedor. Puede aumentar el gasto o inventario de insumos, reconocer el impuesto correspondiente y generar una cuenta por pagar.
           .col-xl-6.col-md-10.tarjeta.color-primario.p-5
@@ -227,7 +227,7 @@
                 figure
                   img(src='@/assets/curso/temas/img19.svg', alt='' style="max-width: 100px")
             h2 Situación 2
-            p La organización vende mercancía por $1.190.000, IVA incluido, y el cliente paga por transferencia bancaria.
+            p La organización vende mercancía por $ 1.190.000, IVA incluido, y el cliente paga por transferencia bancaria.
             p #[b Desarrollo]
             p.mb-0 Se trata de una venta de bienes con ingreso para la organización y entrada inmediata de efectivo o dinero en bancos. Factura de venta emitida al cliente y comprobante bancario. Puede reconocer ingreso por venta, impuesto generado y aumento en bancos.
     .box___style_4.mb-5(data-aos="flip-up")
@@ -259,7 +259,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Operaciones financieras, laborales y tributarias"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/Operaciones_financieras_laborales_tributarias.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block
@@ -273,7 +273,7 @@
       .col-xl
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
           .row(titulo="Situación 1").ajuste-cajaAcordion
-            p.mb-3 La organización recibe un crédito bancario por $20.000.000 consignado en su cuenta corriente. 
+            p.mb-3 La organización recibe un crédito bancario por $ 20.000.000 consignado en su cuenta corriente. 
             ul.fa-ul.mb-0
               li.mb-0
                 span.fa-li
@@ -595,7 +595,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Factura electrónica
-                p La organización vende equipos de oficina por $4.760.000 a crédito a un cliente.
+                p La organización vende equipos de oficina por $ 4.760.000 a crédito a un cliente.
                 ul.fa-ul.estilo___ul.mb-0
                   li.mb-0
                     span.fa-li
@@ -611,7 +611,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Extracto bancario
-                p El banco registra una consignación de $8.500.000 correspondiente al desembolso de un crédito. 
+                p El banco registra una consignación de $ 8.500.000 correspondiente al desembolso de un crédito. 
                 ul.fa-ul.estilo___ul.mb-0
                   li.mb-0
                     span.fa-li
@@ -627,7 +627,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Documento soporte de nómina electrónica
-                p La organización paga la nómina mensual de sus trabajadores por $12.400.000. 
+                p La organización paga la nómina mensual de sus trabajadores por $ 12.400.000. 
                 ul.fa-ul.estilo___ul.mb-0
                   li.mb-0
                     span.fa-li

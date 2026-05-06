@@ -305,7 +305,7 @@
         .box___style_8(data-aos="zoom-in").mb-3
           .row.align-items-center
             .col-xl.order-2.order-lg-1
-              p.fit___p_box Para comprender el uso de los libros contables, se propone identificar:
+              p.fit___p_box #[b Para comprender el uso de los libros contables, se propone identificar:]
               ul.fa-ul.estilo___ul.mb-0
                 li.mb-0
                   span.fa-li

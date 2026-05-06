@@ -91,7 +91,7 @@
                   span.fa-li
                     i.fas.fa-check-circle
                   | #[b Código de Comercio]
-                  p.mb-0 Establece la obligación de ajustar la contabilidad y los registros a las normas vigentes
+                  p.mb-0 Establece la obligación de ajustar la contabilidad y los registros a las normas vigentes.
             .col-xl-auto.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/img59.jpg', alt='').m-auto
