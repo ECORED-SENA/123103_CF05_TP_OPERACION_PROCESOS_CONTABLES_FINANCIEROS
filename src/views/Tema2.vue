@@ -103,9 +103,9 @@
         h3 NIIF para pymes, Código de Comercio y demás referentes contables aplicables
     p.mb-5 A continuación, se presenta un video sobre las NIIF para las pymes, el Código de Comercio y los demás referentes contables aplicables, con el fin de explicar el marco técnico y legal que orienta el reconocimiento, la medición y el registro de las operaciones contables en Colombia.
     figure(data-aos="zoom-in").mb-5
-      .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. NIIF para PYMES y Marco Contable en Colombia.
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/_eg7my_DTAY" title="NIIF para PYMES y marco contable en Colombia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption.fit___figcaption-video #[b Video]. NIIF para PYMES y Marco Contable en Colombia.
     p.mb-5 En el ámbito normativo colombiano, la Ley 1314 de 2009 establece que las normas de contabilidad e información financiera permiten identificar, medir, clasificar, reconocer, interpretar, analizar, evaluar e informar las operaciones económicas. Asimismo, dispone que, para efectos fiscales, las normas tributarias producen efectos propios y prevalecen en caso de incompatibilidad con las normas contables. Por su parte, el Decreto 2649 de 1993 conserva valor conceptual para la comprensión de principios, objetivos y reglas generales del registro contable. A continuación, se presentan ejemplos de aplicación de las NIIF para las pymes y otros referentes contables en operaciones frecuentes:
     .row.align-items-center.mb-5
       .col-xl-auto(data-aos="fade-right")

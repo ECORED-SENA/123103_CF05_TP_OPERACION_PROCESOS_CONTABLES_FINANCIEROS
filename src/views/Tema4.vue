@@ -351,7 +351,7 @@
       .col-xl
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
           .row(titulo="Ajustes").ajuste-cajaAcordion
-            ul.fa-ul.mb-0
+            ul.fa-ul.mb-3
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -364,7 +364,6 @@
                 span.fa-li
                   i.fas.fa-check-circle
                 | #[b Utilidad:] permite completar la información del período.
-          .row(titulo="").ajuste-cajaAcordion
             ul.fa-ul.mb-0
               li.mb-0
                 span.fa-li
