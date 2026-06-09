@@ -239,7 +239,7 @@
           h4 Ejercicio de aplicación y resolución contable de una operación de compra
           p.mb-0 Se invita a leer el documento, donde se aborda el análisis y resolución contable de una operación de compra de insumos administrativos con pago parcial.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/1_Ejercicio_aplicacion_resolucion_contable_operacion_compra.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/1_Ejercicio_aplicacion_resolucion_contable_operacion_compra.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
@@ -441,7 +441,7 @@
           h4 Ejercicio de aplicación y análisis de ajustes contables y operaciones especiales
           p.mb-0 Se invita a leer el documento, donde se aborda el análisis de ajustes contables y operaciones especiales a partir de situaciones prácticas como la depreciación de activos y el reconocimiento de indemnizaciones. 
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/2_Ejercicio_aplicacion_analisis_ajustes_contables_operaciones_especiales.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/2_Ejercicio_aplicacion_analisis_ajustes_contables_operaciones_especiales.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>

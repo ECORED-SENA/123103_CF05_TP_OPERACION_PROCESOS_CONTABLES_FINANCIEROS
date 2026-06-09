@@ -533,7 +533,7 @@
           h4 Normativa tributaria vigente aplicable
           p.mb-0 Se invita a leer el documento #[b Normativa tributaria vigente aplicable], donde se aborda el cumplimiento de las obligaciones fiscales asociadas a las operaciones económicas de una organización, incluyendo IVA, renta, aportes laborales, retenciones y reportes tributarios. 
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/3_Normativa_tributaria_vigente_aplicable.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/3_Normativa_tributaria_vigente_aplicable.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 

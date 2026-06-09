@@ -359,7 +359,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | #[b Qué se busca con el registro?] Actualizar el valor del activo y reconocer el gasto. 
+                | #[b ¿Qué se busca con el registro?] Actualizar el valor del activo y reconocer el gasto. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -372,7 +372,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | #[b Qué se busca con el registro?] Reconocer gasto y obligación. 
+                | #[b ¿Qué se busca con el registro?] Reconocer gasto y obligación. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -386,7 +386,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | #[b Qué se busca con el registro?] Separar la información del período. 
+                | #[b ¿Qué se busca con el registro?] Separar la información del período. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -400,7 +400,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | #[b Qué se busca con el registro?] Continuar el registro con cuentas vigentes. 
+                | #[b ¿Qué se busca con el registro?] Continuar el registro con cuentas vigentes. 
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -535,7 +535,7 @@
           h4 Control de información, reportes y conservación documental
           p.mb-0 Se invita a leer el documento, donde se aborda la importancia del control de la información contable, la generación de reportes y la adecuada conservación de los soportes documentales.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/5_Control_informacion.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/5_Control_informacion.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 

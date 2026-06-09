@@ -629,43 +629,43 @@
                 td.ajuste-border-tabla.texto-left Orden jerárquico del plan de cuentas
                 td.ajuste-border-tabla.texto-left Variable
                 td.ajuste-border-tabla.texto-left 1 → 11 → 1105 → 110505
-                td.texto-left Permite pasar de lo general a lo particular al momento de registrar
+                td.texto-left Permite pasar de lo general a lo particular al momento de registrar.
               tr
                 td.ajuste-border-tabla.texto-left Nivel 1: clase
                 td.ajuste-border-tabla.texto-left Categoría general de la cuenta
                 td.ajuste-border-tabla.texto-left 1 dígito
                 td.ajuste-border-tabla.texto-left 1 Activo
-                td.texto-left Sirve para ubicar si la operación afecta activos, pasivos, patrimonio, ingresos, gastos, costos o cuentas de orden
+                td.texto-left Sirve para ubicar si la operación afecta activos, pasivos, patrimonio, ingresos, gastos, costos o cuentas de orden.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Nivel 2: grupo
                 td.ajuste-border-tabla.texto-left Subdivisión de la clase
                 td.ajuste-border-tabla.texto-left 2 dígitos
                 td.ajuste-border-tabla.texto-left 11 Disponible
-                td.texto-left Permite ubicar la operación en un bloque más concreto, por ejemplo caja, bancos, inventarios o proveedores
+                td.texto-left Permite ubicar la operación en un bloque más concreto, por ejemplo caja, bancos, inventarios o proveedores.
               tr
                 td.ajuste-border-tabla.texto-left Cuenta detalle
                 td.ajuste-border-tabla.texto-left Cuenta específica de registro
                 td.ajuste-border-tabla.texto-left 4 dígitos
                 td.ajuste-border-tabla.texto-left 1105 Caja
-                td.texto-left Permite identificar el rubro concreto donde se reconocerá la operación
+                td.texto-left Permite identificar el rubro concreto donde se reconocerá la operación.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Subcuenta
                 td.ajuste-border-tabla.texto-left Mayor nivel de desagregación
                 td.ajuste-border-tabla.texto-left 6 dígitos
                 td.ajuste-border-tabla.texto-left 110505 Caja general
-                td.texto-left Facilita el control específico del movimiento
+                td.texto-left Facilita el control específico del movimiento.
               tr
                 td.ajuste-border-tabla.texto-left Centro de costo
                 td.ajuste-border-tabla.texto-left Área o proceso al que se asocia el movimiento
                 td.ajuste-border-tabla.texto-left Código interno
                 td.ajuste-border-tabla.texto-left ADM-01 Administración
-                td.texto-left Mejora el control interno por áreas, sedes o procesos; no es una clase del PUC, sino una herramienta interna de control contable
+                td.texto-left Mejora el control interno por áreas, sedes o procesos; no es una clase del PUC, sino una herramienta interna de control contable.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Aplicación
                 td.ajuste-border-tabla.texto-left Uso de la estructura en operaciones reales
                 td.ajuste-border-tabla ---
                 td.ajuste-border-tabla.texto-left Compra de mercancías para vender
-                td.texto-left La operación se clasifica, se codifica y luego se registra en la cuenta y subcuenta correspondiente
+                td.texto-left La operación se clasifica, se codifica y luego se registra en la cuenta y subcuenta correspondiente.
     .box___style_4.fit___color_1.mb-0(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
@@ -675,7 +675,7 @@
           h4 Clases y grupos del plan de cuentas
           p.mb-0 Se invita a leer el documento Clases y grupos del plan de cuentas, donde se aborda la estructura jerárquica del plan de cuentas en contabilidad, explicando cómo se organizan las clases (nivel 1) y los grupos (nivel 2) para clasificar las operaciones económicas. 
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/4_Clases_grupos_plan_cuentas.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/4_Clases_grupos_plan_cuentas.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
