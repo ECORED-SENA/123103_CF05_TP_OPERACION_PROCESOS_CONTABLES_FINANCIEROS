@@ -574,7 +574,7 @@
           .col-xl-4.col-md-9(data-aos="zoom-in")
             .box___style_9.h-100
               p.text-center #[b ¿La operación corresponde al funcionamiento o sostenimiento de la organización?] 
-              p.mb-0.text-center Entonces corresponde a gastos. 
+              p.mb-0.text-center Entonces, corresponde a gastos. 
         .box___style_10(data-aos="flip-up").mb-3
           p.mb-0 En síntesis, el plan de cuentas y la estructura contable permiten traducir el hecho económico en una clasificación ordenada dentro del registro. Esta base facilita distinguir entre activos, pasivos, patrimonio, ingresos, costos y gastos, evitando registros improcedentes y fortaleciendo la calidad de la información contable.
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
